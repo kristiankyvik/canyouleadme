@@ -1,5 +1,3 @@
-Canopy==1.2.0.dev6197
-CanopyTraining==0.9.dev1540
 Examples==7.3
 Flask==0.10.1
 Jinja2==2.7.1
